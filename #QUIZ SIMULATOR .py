@@ -1,4 +1,4 @@
-#QUIZ SIMULATOR using pyhton 2
+#QUIZ SIMULATOR (using python)
 import time
 from datetime import datetime
 today=datetime.now()
