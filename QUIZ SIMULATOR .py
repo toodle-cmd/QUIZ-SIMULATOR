@@ -7,7 +7,7 @@ print("QUIZ TEST")
 print("\n")
 print(date)
 
-print("\nlet's play start")
+print("\nlet's start ..")
 start_time=time.time()
 print(start_time)
 quiz=[
